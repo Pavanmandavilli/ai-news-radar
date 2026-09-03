@@ -1,9 +1,10 @@
 name: AI News Radar
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "*/20 * * * *"
+
+  workflow_dispatch:
 
 permissions:
   contents: read
