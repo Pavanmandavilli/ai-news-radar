@@ -16,7 +16,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     env:
       OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
@@ -31,7 +31,7 @@ jobs:
 
       DRY_RUN: "false"
       MIN_AI_SCORE: "60"
-      MAX_ARTICLES_PER_CYCLE: "50"
+      MAX_ARTICLES_PER_CYCLE: "35"
       REQUEST_TIMEOUT_SECONDS: "20"
       MAX_ARTICLE_CHARS: "30000"
       USER_AGENT: "AI-News-Radar/1.0"
