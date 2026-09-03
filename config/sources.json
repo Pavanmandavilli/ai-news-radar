@@ -1,0 +1,96 @@
+{
+  "rss_feeds": [
+    {
+      "name": "Hacker News: AI",
+      "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+OpenAI+OR+Anthropic"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/"
+    },
+    {
+      "name": "Google News: artificial intelligence",
+      "url": "https://news.google.com/rss/search?q=%22artificial+intelligence%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: AI model",
+      "url": "https://news.google.com/rss/search?q=%22AI+model%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: generative AI",
+      "url": "https://news.google.com/rss/search?q=%22generative+AI%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: AI agent",
+      "url": "https://news.google.com/rss/search?q=%22AI+agent%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: large language model",
+      "url": "https://news.google.com/rss/search?q=%22large+language+model%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: AI chip",
+      "url": "https://news.google.com/rss/search?q=%22AI+chip%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: AI revenue",
+      "url": "https://news.google.com/rss/search?q=%22AI+revenue%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: AI funding",
+      "url": "https://news.google.com/rss/search?q=%22AI+funding%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: OpenAI",
+      "url": "https://news.google.com/rss/search?q=%22OpenAI%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: Anthropic",
+      "url": "https://news.google.com/rss/search?q=%22Anthropic%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: Google DeepMind",
+      "url": "https://news.google.com/rss/search?q=%22Google+DeepMind%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News: NVIDIA AI",
+      "url": "https://news.google.com/rss/search?q=%22NVIDIA%22+AI&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/"
+    },
+    {
+      "name": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    },
+    {
+      "name": "Ars Technica AI",
+      "url": "https://arstechnica.com/tag/ai/feed/"
+    },
+    {
+      "name": "Wired AI",
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss"
+    },
+    {
+      "name": "MarkTechPost",
+      "url": "https://www.marktechpost.com/feed/"
+    }
+  ]
+}
